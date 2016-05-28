@@ -1,0 +1,25 @@
+Ch    Project Path                       Project Description
+2.9   ch2/verify.grc                     Sanity check for gnuradio install
+5.3   ch5/simple.grc                     First gnuradio-companion project
+5.3   ch5/simple_multiply.grc            Simple project with constant multiply
+6.1   ch6/first_am_rx.grc                Basic AM radio
+6.1   ch6/am_broadcast_02_c900k_s400k.iq Raw Data for AM Radio
+7.1   ch7/single_tone.grc                Produces single audible tone
+7.2   ch7/single_tone_fft.grc            Tone with FFT display
+7.2   ch7/cmajor.grc                     Plays the three notes comprising chord
+7.2   ch7/voice_fft.grc                  Displays FFT for voice sample
+7.2   ch7/HumanEvents_s32k.wav           32 kHz audio file of spoken words
+7.3   ch7/gain.grc                       Simple gain experiment
+7.4   ch7/gain_db.grc                    Gain experiment in units of dB
+7.5   ch7/cmajor_lpf.grc                 Filters upper two peaks of chord
+7.5   ch7/cmajor_hpf.grc                 Filters lower two peaks of chord
+7.5   ch7/cmajor_bpf.grc                 Filters upper and lower peaks of chord
+7.5   ch7/cmajor_brf.grc                 Filters middle peak (optional)
+7.6   ch7/equalizer.grc                  Equalizes voice sample (optional)
+8.2   ch8/second_am_rx.grc               AM radio with added instrumentation
+8.3   ch8/freq_shift.grc                 Frequency shift of single FFT peak
+8.3   ch8/freq_shift_square.grc          Frequency shift of square wave
+8.4   ch8/complex_filter.grc             Filtering a stream of complex values
+8.6   ch8/decimation.grc                 Viewing decimated sinusoid
+8.6   ch8/interpolation.grc              Viewing interpolated sinusoid
+
